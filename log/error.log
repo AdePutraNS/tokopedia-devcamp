@@ -1,0 +1,12 @@
+{"level":"info","ts":1535507794.1725762,"msg":"Kothak: Connected to Redis rates"}
+{"level":"warn","ts":1535507794.173937,"msg":"SQLDB: failed to connect to postgres://toped:toped@localhost:5432?sslmode=disable with error pq: password authentication failed for user \"toped\""}
+{"level":"warn","ts":1535507794.1739876,"msg":"SQLDB: retrying to connect to postgres://toped:toped@localhost:5432?sslmode=disable. Retry: 1"}
+{"level":"warn","ts":1535507797.1744163,"msg":"SQLDB: failed to connect to postgres://toped:toped@localhost:5432?sslmode=disable with error context deadline exceeded"}
+{"level":"warn","ts":1535507797.1745746,"msg":"SQLDB: retrying to connect to postgres://toped:toped@localhost:5432?sslmode=disable. Retry: 2"}
+{"level":"warn","ts":1535507800.1749475,"msg":"SQLDB: failed to connect to postgres://toped:toped@localhost:5432?sslmode=disable with error context deadline exceeded"}
+{"level":"warn","ts":1535507800.175044,"msg":"SQLDB: retrying to connect to postgres://toped:toped@localhost:5432?sslmode=disable. Retry: 3"}
+{"level":"info","ts":1535507828.1157408,"msg":"Kothak: Connected to Redis rates"}
+{"level":"warn","ts":1535507828.1169715,"msg":"SQLDB: failed to connect to postgres://toped:toped@localhost:5432?sslmode=disable with error pq: password authentication failed for user \"toped\""}
+{"level":"warn","ts":1535507828.117005,"msg":"SQLDB: retrying to connect to postgres://toped:toped@localhost:5432?sslmode=disable. Retry: 1"}
+{"level":"warn","ts":1535507831.1173427,"msg":"SQLDB: failed to connect to postgres://toped:toped@localhost:5432?sslmode=disable with error context deadline exceeded"}
+{"level":"warn","ts":1535507831.1174698,"msg":"SQLDB: retrying to connect to postgres://toped:toped@localhost:5432?sslmode=disable. Retry: 2"}
